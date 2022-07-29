@@ -1,6 +1,6 @@
 ### 👋Hello, I'm Jae Sung Choi and I live in Seoul, Korea.
 
-- 💻 I am interested. Web, AI, Infrastructure, Architecture
+- 💻 I am interested in the web, AI, infrastructure, and architecture.
 - 📚 Dreaming of an era in which AI and Human collaborate.
 - ✨ Programming is just a means of expression.
 - 💚 I value relationships with people and I want to be able to grow with each other.
