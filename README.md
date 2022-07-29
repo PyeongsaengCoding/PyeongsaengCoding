@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# 👨‍💻 Full Stack, Lead Dev 
+# 📚 Azure, Blazor, C#, TypeScript, React
+# 🏢Langcode Inc.
+
 <!--
 **dhddldid/dhddldid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
