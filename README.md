@@ -10,5 +10,5 @@
 
 
 The stacks and tools I use
-
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=f4f4f4"> <img src="https://img.shields.io/badge/C Sharp-7952B3?style=flat-square&logo=C Sharp&logoColor=f4f4f4"> <img src="https://img.shields.io/badge/Cosmos-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=f4f4f4"> <img src="https://img.shields.io/badge/Blob-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=f4f4f4"> <img src="https://img.shields.io/badge/Cognitive-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=f4f4f4"> <img src="https://img.shields.io/badge/App Service-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=f4f4f4"> <img src="https://img.shields.io/badge/Azure Functions-0078D4?style=flat-square&logo=Azure Functions&logoColor=f4f4f4"> <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=f4f4f4"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=262626"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=f4f4f4"> 
